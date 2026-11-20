@@ -1,0 +1,3 @@
+# qr-generator
+
+Status: implemented

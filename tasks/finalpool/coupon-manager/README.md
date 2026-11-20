@@ -1,0 +1,3 @@
+# coupon-manager
+
+Status: implemented

@@ -1,0 +1,3 @@
+# deal-manager
+
+Status: implemented

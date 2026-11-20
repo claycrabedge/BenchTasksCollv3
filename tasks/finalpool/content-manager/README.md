@@ -1,0 +1,3 @@
+# content-manager
+
+Status: implemented

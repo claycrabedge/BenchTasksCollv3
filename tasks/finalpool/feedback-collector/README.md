@@ -1,0 +1,3 @@
+# feedback-collector
+
+Status: implemented

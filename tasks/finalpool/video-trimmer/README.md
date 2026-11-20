@@ -1,0 +1,3 @@
+# video-trimmer
+
+Status: implemented
